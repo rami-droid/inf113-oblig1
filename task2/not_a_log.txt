@@ -1,0 +1,12 @@
+2026-09-10 09:00:01 [INFO]  INF113 server starting — ready to grade some C code!
+2026-09-10 09:00:02 [DEBUG] Runner process spawned to chase missing semicolons
+2026-09-10 09:00:05 [WARN]  Found an abandoned skeleton of last year’s assignment in /tmp/
+2026-09-10 09:00:07 [INFO]  Added witty comments to the log to keep students awake
+2026-09-10 09:00:10 [ERROR] Runner tripped over a misplaced curly brace — send help!
+2026-09-10 09:00:12 [DEBUG] Skeleton tried to compile but had no main() function
+2026-09-10 09:00:15 [INFO]  INF113 TA spilled coffee on the assignment sheet — backup restored
+2026-09-10 09:00:18 [WARN]  Log file is developing a sense of humor — proceed with caution
+2026-09-10 09:00:21 [INFO]  Runner recovered, chasing bugs faster than ever
+2026-09-10 09:00:24 [DEBUG] Skeleton is now dancing — this might be undefined behavior
+2026-09-10 09:00:28 [INFO]  INF113 students are laughing, which is suspicious in C programming
+2026-09-10 09:00:32 [INFO]  Server shutting down before the log starts running dad jokes
